@@ -1,22 +1,12 @@
 
 
-.background {
-  background-image: url("https://cdn.stocksnap.io/img-thumbs/960w/WQTXWMQPOF.jpg);
-}
 
-.uppercase {
-  text-transform: uppercase;
-}
-.publish-time {
-  color: gray;
-}
 
 .verdana {
   font-family: Verdana;
 }
 
-.capitalize {
-  text-transform: capitalize;
+.body{
+<img src="https://cdn.stocksnap.io/img-thumbs/960w/WQTXWMQPOF.jpg" style="width:100%;height:350px;">
 }
-
 
