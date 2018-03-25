@@ -1,7 +1,7 @@
 
 
 .background {
-  color: teal;
+  background-image: url("https://cdn.stocksnap.io/img-thumbs/960w/WQTXWMQPOF.jpg);
 }
 
 .uppercase {
@@ -18,4 +18,5 @@
 .capitalize {
   text-transform: capitalize;
 }
+
 
