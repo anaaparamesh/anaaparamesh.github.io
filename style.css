@@ -1,0 +1,21 @@
+
+
+.background {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+
+.verdana {
+  font-family: Verdana;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
