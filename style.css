@@ -50,3 +50,7 @@
  .topnav .icon {
      display: none;
 }
+
+.big {
+line-height: 3.0;
+}
